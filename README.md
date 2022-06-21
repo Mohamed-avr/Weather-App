@@ -7,5 +7,5 @@ is an app for weather created with react
 - tailwind css
 - free API
 
-see the [demo](https://ubiquitous-frangollo-c07291.netlify.app/).
+see the [demo](https://weather-app-reactjs-2022.netlify.app).
 
